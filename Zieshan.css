@@ -131,5 +131,8 @@ img {
 	border: solid black 2px;
 	font-size:22px;
 	background-color: rgb(100,150,150);
-
+}
+.m_contact p{
+	font-size: 10px;
+	color: rgb(100,150,150);
 }
